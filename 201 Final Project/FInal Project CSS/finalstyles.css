@@ -1,0 +1,56 @@
+
+
+.fontfamily {
+    font-family: 'Times New Roman', Times, serif;
+}
+.fontcolor { font-style: bold blue;}
+
+.Picture {
+    position: relative;
+}
+
+.textoverpic {
+    position: absolute;
+}
+
+.bgcolor {
+    background-color: rgb(212, 203, 183);
+}
+
+
+.foxcard {
+      width: 20%;
+    }
+.cedarcard {
+  width: 20%;
+}
+.sleepycard {
+  width: 20%;
+}
+.hobblecard {
+  width: 20%;
+}
+.firstpic {
+  width: 50%;
+  float: right;
+}
+
+.containermarg {
+  margin: 1%;
+  position: absolute;
+  border: 10px solid black;
+}
+.seccontainermarg {
+  width: 80%;
+  border: 2px cornflowerblue;
+  float: left;
+}
+.cardsize {
+  height: 200px;
+}
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    margin: 2%;
+}  
